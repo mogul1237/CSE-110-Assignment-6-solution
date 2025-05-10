@@ -1,2 +1,10 @@
 # CSE-110-Assignment-6-solution
-CSE 110 – Assignment #6 solution
+
+Download Here: [CSE 110 – Assignment #6 solution](https://jarviscodinghub.com/assignment/cse-110-assignment-6-solution/)
+
+For Custom/Original Work email jarviscodinghub@gmail.com/whatsapp +1(541)423-7793
+
+Maximum points: 20 pts
+Topics • Object Oriented Programming & Methods (Chapter 5 & 8) – Tester class development (Command Menu) – Implementing instance methods
+Your programming assignments require individual work and effort to be of any benefit. Every student must work independently on his or her assignments. This means that every student must ensure that neither a soft copy nor a hard copy of their work gets into the hands of another student. Sharing your assignments with others in any way is NOT permitted. Violations of the University Academic Integrity policy will not be ignored. The university academic integrity policy is found at https://www.asu.edu/studentlife/judicial/integrity.html
+Use the following Guidelines: • Give identifiers semantic meaning and make them easy to read (examples numStudents, grossPay, etc). • Keep identifiers to a reasonably short length. • User upper case for constants. Use title case (first letter is upper case) for classes. Use lower case with uppercase word separators for all other identifiers (variables, methods, objects). • Use tabs or spaces to indent code within blocks (code surrounded by braces). This includes classes, methods, and code associated with ifs, switches and loops. Be consistent with the number of spaces or tabs that you use to indent. • Use white space to make your program more readable. Important Note: All submitted assignments must begin with the descriptive comment block. To avoid losing trivial points, make sure this comment header is included in every assignment you submit, and that it is updated accordingly from assignment to assignment. (If not, -1 Pt) //*********************************************************** // Name: your name // Title: title of the source file // Description: Write the description in your words. // Time spent: how long it took you to complete the assignment // Date: the date you programmed //**********************************************************
